@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoannfelix
 - 👀 I’m interested in tabletop rpgs and cloud automation
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning JS and C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Read me on discord at AysonOhbata#2779 ...
 
